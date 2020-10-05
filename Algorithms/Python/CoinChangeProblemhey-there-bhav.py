@@ -1,5 +1,5 @@
 """https://www.hackerrank.com/challenges/coin-change/problem"""
-
+ // Contribution for Hacktober Fest 
 def lcs(n,m,nums):
         arr=[[0]*(n+1) for _ in range(m)]
         for i in range(m):
